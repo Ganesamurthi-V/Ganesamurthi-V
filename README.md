@@ -90,11 +90,10 @@ const ganesh = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesamurthi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesamurthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesamurthi&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ganesamurthi&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesamurthi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=Ganesamurthi&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
@@ -104,7 +103,7 @@ const ganesh = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ganesamurthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Ganesamurthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
